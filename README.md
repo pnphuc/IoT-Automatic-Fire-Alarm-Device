@@ -32,7 +32,7 @@ Grade: 10/10
 
 1. **Hình ảnh**
 
-![](sodotruyennhan.jpg)
+![](sodotruyennhan.jpg.jpg)
 
 1. **Mô tả**
 

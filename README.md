@@ -1,5 +1,6 @@
 # IoT-Automatic-Fire-Alarm-Device
-VNU - HCMUS
+*VNU - HCMUS
+
 **GIỚI THIỆU**
 
 1. **Đề tài**
